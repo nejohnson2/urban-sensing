@@ -15,7 +15,7 @@
 */
 #include <SoftwareSerial.h>
 
-SoftwareSerial fona = SoftwareSerial(3,2);
+SoftwareSerial fona = SoftwareSerial(3,2); //TX Rx
 
 void setup() {
   // put your setup code here, to run once:
